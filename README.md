@@ -1,5 +1,5 @@
 # FUTURE_ML_03
-AI-powered resume screening system using BERT and NLP
+AI-powered Resume Screening System using BERT for semantic matching and NLP-based skill analysis
 
 # 🤖 AI Resume Screening System
 
