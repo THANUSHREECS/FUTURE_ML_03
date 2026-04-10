@@ -30,6 +30,12 @@ This project is an AI-powered resume screening system that helps recruiters shor
 5. Rank candidates
 6. Identify matched & missing skills
 
+## Output
+- Ranked candidates with scores
+- Extracted skills from resumes
+- Matching skills with job description
+- Missing skills analysis   
+
 ## Run the Project
 pip install -r requirements.txt
 
